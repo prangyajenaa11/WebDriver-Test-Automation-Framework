@@ -29,15 +29,9 @@ python-web-testing/
 
 1. Ensure you have Python 3.7+ installed.
 2. Clone this repository:
-   ```
-   git clone https://github.com/yourusername/python-web-testing.git
-   cd python-web-testing
-   ```
+   
 3. Create a virtual environment:
-   ```
-   python -m venv venv
-   source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-   ```
+   
 4. Install the required packages:
    ```
    pip install -r requirements.txt
