@@ -1,0 +1,26 @@
+web_app_testing/
+│
+├── tests/
+│   ├── __init__.py
+│   ├── test_login.py
+│   └── test_homepage.py
+│
+├── pages/
+│   ├── __init__.py
+│   ├── base_page.py
+│   ├── login_page.py
+│   └── home_page.py
+│
+├── utilities/
+│   ├── __init__.py
+│   ├── test_base.py
+│   ├── excel_util.py
+│   └── test_util.py
+│
+├── reports/
+│
+├── screenshots/
+│
+├── config.py
+│
+└── requirements.txt
